@@ -1,5 +1,6 @@
 # Olá, me chamo Arthur ! 
 ## Bem vindo ao meu perfil GitHub 👋
+Eu sou um profissional apaixonado por tecnologia e dados. Com uma formação em Gestão Financeira, mergulhei de cabeça no mundo da tecnologia e estou atualmente dedicando-me à minha pós-graduação em Machine Learning Engineering na FIAP. Minha paixão por dados é evidente - para mim, são verdadeiras minas de ouro, e eu me considero um habilidoso mineador. Minha jornada é impulsionada pela busca incessante por insights valiosos e pela aplicação eficaz da tecnologia para resolver problemas complexos.
 
 ## Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original-wordmark.svg" width="40" height="40"/>
@@ -18,3 +19,4 @@
 <a href = "mailto:arthur.c.mendes@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/arthur-corr%C3%AAa-mendes-296301190/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+https://cursos.alura.com.br/vitrinedev/arthur-c-mendes
