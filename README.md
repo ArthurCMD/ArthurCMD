@@ -1,5 +1,5 @@
-# Olá, me chamo Arthur ! 
-## Bem vindo ao meu perfil GitHub 👋
+
+# Bem vindo ao meu perfil GitHub
 Sou um profissional movido por tecnologia e apaixonado por dados. Minha formação em Gestão Financeira me deu uma base sólida de negócios, mas foi no universo da tecnologia que encontrei meu propósito. Hoje, sigo me especializando em Machine Learning Engineering pela FIAP, buscando aprofundar ainda mais minha atuação nesse campo.
 Minha trajetória tem sido guiada pela vontade de transformar complexidade em soluções práticas, sempre em busca de gerar insights relevantes e fazer a tecnologia trabalhar a favor de decisões mais inteligentes.
 
@@ -49,4 +49,6 @@ Minha trajetória tem sido guiada pela vontade de transformar complexidade em so
 <a href = "mailto:arthur.c.mendes@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/arthur-corr%C3%AAa-mendes-296301190/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+https://www.credly.com/users/arthur-mendes.d7d92343/badges
+
 https://cursos.alura.com.br/vitrinedev/arthur-c-mendes
