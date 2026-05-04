@@ -1,48 +1,16 @@
 
 # Bem vindo ao meu perfil GitHub
-Sou um profissional movido por tecnologia e apaixonado por dados. Minha formação em Gestão Financeira me deu uma base sólida de negócios, mas foi no universo da tecnologia que encontrei meu propósito. Hoje, sigo me especializando em Machine Learning Engineering pela FIAP, buscando aprofundar ainda mais minha atuação nesse campo.
-Minha trajetória tem sido guiada pela vontade de transformar complexidade em soluções práticas, sempre em busca de gerar insights relevantes e fazer a tecnologia trabalhar a favor de decisões mais inteligentes.
+Data Engineer com atuação em liderança técnica e forte experiência hands-on na construção de pipelines de dados e arquiteturas em nuvem (AWS).
 
-## Ferramentas e Tecnologias
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/>
-          
-</div>
+Experiência end-to-end em projetos de dados, incluindo desenvolvimento de pipelines ETL/ELT, construção de Data Lakes (arquitetura Medallion), processamento distribuído com PySpark e modelagem de dados para analytics e machine learning.
 
-## Estou aprendendo
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
-</div>
+Atuação prática no desenvolvimento e evolução de pipelines, definição de arquiteturas e implementação de soluções escaláveis com foco em performance, confiabilidade e custo.
 
+Experiência na integração de inteligência artificial a pipelines de dados e produtos, incluindo automação de processos e construção de soluções baseadas em modelos.
 
-<div>
-<a href="https://github.com/ArthurCMD">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCMD&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurCMD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+Atuação como referência técnica em iniciativas de dados, apoiando decisões de arquitetura e disseminação de boas práticas.
+
+Stack: Python, PySpark, SQL, AWS (S3, Glue, Athena, Lambda, Step Functions), Airflow, Terraform, Apache Iceberg
 
 ## Contatos:
 <div>
